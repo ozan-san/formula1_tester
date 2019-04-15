@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 /* Author: Ozan San
-	Date: 9.4.2019
+	Date: 15.4.2019
 */
 module testbench_formula1;
 
